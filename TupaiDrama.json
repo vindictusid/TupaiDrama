@@ -42,6 +42,13 @@
     "allowOffline": true
   },
   {
+    "id": "cac688e2a3dac433",
+    "username": "628988210101",
+    "password": "tupaidrama",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
